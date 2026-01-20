@@ -86,7 +86,7 @@ type Endpoint struct {
 }
 
 var (
-	Version = "dev"
+	Version = "v1.0.0"
 )
 
 var (
